@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZENINxOMEGA/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ZENINxOMEGA/DSA-LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ZENINxOMEGA/DSA-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
